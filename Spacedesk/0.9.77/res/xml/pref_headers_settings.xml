@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:icon="@drawable/ic_photo_size_select_large_black_24dp"
+        android:title="@string/pref_header_resolution"
+        android:fragment="ph.spacedesk.httpwww.spacedesk.SAActivitySettings$ResolutionPreferenceFragment" />
+    <header
+        android:icon="@drawable/ic_screen_rotation"
+        android:title="@string/pref_header_rotation"
+        android:fragment="ph.spacedesk.httpwww.spacedesk.SAActivitySettings$RotationPreferenceFragment" />
+    <header
+        android:icon="@drawable/ic_gradient_black_24dp"
+        android:title="@string/pref_header_compression"
+        android:fragment="ph.spacedesk.httpwww.spacedesk.SAActivitySettings$CompressionPreferenceFragment" />
+    <header
+        android:icon="@drawable/ic_autoreconnect_black_24dp"
+        android:title="@string/pref_header_connection"
+        android:fragment="ph.spacedesk.httpwww.spacedesk.SAActivitySettings$ConnectionPreferenceFragment" />
+    <header
+        android:icon="@drawable/ic_baseline_add_black_24"
+        android:title="@string/pref_header_extended"
+        android:fragment="ph.spacedesk.httpwww.spacedesk.SAActivitySettings$ExtendedPreferenceFragment" />
+</preference-headers>

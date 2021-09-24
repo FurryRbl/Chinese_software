@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CDS">Nu se poate detecta nicio mașină principală</string>
+    <string name="CDSButtonDiscoveryOff">Conectați-vă la mașina principală</string>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="action_about">Despre</string>
+    <string name="action_contact_support">Suport tehnic</string>
+    <string name="action_input_devices">Dispozitive de intrare</string>
+    <string name="action_settings">Setări</string>
+    <string name="action_view_manual">Manual de utilizare</string>
+    <string name="activity_display_label_display_off">DISPLAY OFF</string>
+    <string name="app_website_error_browser_missing">Nu s-a putut deschide browserul: verificați dacă există un browser instalat pe dispozitivul dvs.</string>
+    <string name="discoveryConnectionText">"Conexiune: "</string>
+    <string name="dlgDisconnectNegBtn">Anulare</string>
+    <string name="dlgDisconnectPosBtn">OK</string>
+    <string name="dlgDisconnectText">Doriți să reveniți la meniul principal?</string>
+    <string name="dlgDisconnectTitle">Deconectare display</string>
+    <string name="dlgInitialInfoBtn">OK</string>
+    <string name="dlgInitialInfoCheckboxText">Nu mai afișa din nou aceast mesaj</string>
+    <string name="dlgInitialInfoPosButton">OK</string>
+    <string name="dlgInitialInfoText">"Această aplicație Android - spacedesk se poate conecta doar la un driver Windows spacedesk.
+
+Puteți descărca cel mai recent Windows DRIVER de pe: https://www.spacedesk.net/
+
+Ajutor iar informatii despre versiune la: https://www.spacedesk.net"</string>
+    <string name="dlgInitialInfoTitle">INFORMAȚII IMPORTANTE:</string>
+    <string name="dlgProgressCancelNegBtn">Anulare</string>
+    <string name="dlgProgressCanceledToastText">întrerupt</string>
+    <string name="dlgTextServerRestrictionPen">"Nu puteți utiliza caracteristica stilou cu driverul curent Windows-PC spacedesk DRIVER.
+Vă rugăm să descărcați cel mai recent spacedesk DRIVER de pe www.spacedesk.net!"</string>
+    <string name="dlgTitleServerRestrictionMain">Funcție neacceptată de pe server</string>
+    <string name="dlg_SoftKBInput_PosBtn">OK</string>
+    <string name="dlg_SoftKBInput_Text">"Pentru a utiliza funcția de introducere a tastaturii software pentru serverul dvs. spacedesk, vă rugăm să instalați cel puțin versiunea spacedesk DRIVER 0.9.61 pentru Windows 10!
+
+Puteți descărca cel mai recent driver Windows spacedesk de la: https://www.spacedesk.net"</string>
+    <string name="dlg_SoftKBInput_Title">INFORMAȚII IMPORTANTE:</string>
+    <string name="dlg_SoftKBInput_doNotShowAgain">Nu mai afișa din nou aceast mesaj</string>
+    <string name="dlg_add_ip_btn_neg">ANULARE</string>
+    <string name="dlg_add_ip_btn_pos">ADAUGĂ</string>
+    <string name="dlg_add_ip_btn_pos_discovery_off">CONECTAȚI</string>
+    <string name="dlg_add_ip_empty_list_text">lista este goală</string>
+    <string name="dlg_add_ip_text">Introduceți adresa IP a computerului principal (server):</string>
+    <string name="dlg_add_ip_text_recent">Recent:</string>
+    <string name="dlg_autoconnect_dot">.</string>
+    <string name="hostname">Conectați-vă la mașina principală (server)</string>
+    <string name="hostnameDiscoveryOff">Descoperire dezactivată - pentru descoperirea automată verificați setările</string>
+    <string name="ipValidationText">Validare IP în curs…</string>
+    <string name="ivInfoDlgText">"Pentru a vă conecta, faceți click pe adresa serverului vizibil.
+
+Dacă nu vedeți serverul de care aveți nevoie, introduceți manual adresa IP ( click pe butonul +- în partea stângă a butonului i-)."</string>
+    <string name="ivInfoDlgTextDiscoveryOff">Vă rugăm să faceți clic pe butonul de mai jos pentru a introduce adresa IP a mașinii dvs. principale. Datorită descoperirii setărilor OFF, nu puteți descoperi automat nicio mașină primară!</string>
+    <string name="ivInfoDlgTitle">Informație</string>
+    <string name="manuallyAddingIpText">"Adăugarea manuală a IP-ului: "</string>
+    <string name="msgBoxDisconnectedMainMessage">"Deconectat de o eroare de server
+
+Cod eroare: "</string>
+    <string name="msgBoxDisconnectedManuallyTitleDisconnected">Deconectat manual</string>
+    <string name="msgBoxDisconnectedTextConFailure">Eroare conexiune</string>
+    <string name="msgBoxDisconnectedTextConnectedTime">"Deconectat manual
+
+Timp conectat: "</string>
+    <string name="msgBoxDisconnectedTextConnectionFailed">Conexiune eșuată!</string>
+    <string name="msgBoxDisconnectedTextErrorInfo">"
+
+Detalii eroare: "</string>
+    <string name="msgBoxDisconnectedTextUnableToConnect">Nu se poate conecta!</string>
+    <string name="msgBoxDisconnectedTitleDisconnected">Deconectat</string>
+    <string name="mvcViewTextAutoConnectingTo">"Conectare automată la "</string>
+    <string name="mvcViewTextConnectingTo">"Conectarea la "</string>
+    <string name="mvcViewTextDisconnectedReconnectingTo">"Deconectat - Reconectare la "</string>
+    <string name="mvcViewTextDisconnectingFrom">"Deconectare de la "</string>
+    <string name="mvcViewTextDisplayOFF">Conectat - Display OFF</string>
+    <string name="mvcViewTextPowersave">"Powersave - Reconectare la "</string>
+    <string name="prefDlgResTxtAborted">Întrerupt</string>
+    <string name="prefDlgResValidationFailedTxtBigger">"Rezoluția nu trebuie să fie mai mare de "</string>
+    <string name="prefDlgResValidationFailedTxtEmpty">Lățimea/Înălțimea nu trebuie să fie goale</string>
+    <string name="prefDlgResValidationFailedTxtMultiple">Lățimea/Înălțimea trebuie să fie multiplu de 2</string>
+    <string name="prefDlgResValidationFailedTxtNative">(nativ)</string>
+    <string name="prefDlgResValidationFailedTxtNumeric">Valoare non-numerică pentru lățime/înălțime</string>
+    <string name="prefDlgResValidationFailedTxtSmaller">"Rezoluția nu trebuie să fie mai mică de "</string>
+    <string name="prefDlgResValidationFailedTxtSmallestWin81">"Nu utilizați această rezoluție pe Windows 8.1 "</string>
+    <string name="prefDlgResValidationTxtChangesApplied">Modificări aplicate</string>
+    <string name="pref_description_auto_connect">Conectarea automată la un server la inițializarea aplicației</string>
+    <string name="pref_description_auto_connect_ip">Introduceți adresa IP a serverului pentru conectarea automată</string>
+    <string name="pref_description_autoreconnect">Reconectați automat dispozitivul client</string>
+    <string name="pref_description_autorotation">Rotiți ecranul mașinii principale prin rotația dispozitivului client</string>
+    <string name="pref_description_custom_res">De obicei utilizat pentru duplicarea desktopului</string>
+    <string name="pref_description_discovery">Activați / dezactivați descoperirea automată a mașinii primare spacedesk</string>
+    <string name="pref_description_ktm_mouse">Trimite intrările ecranului tactil către computerul principal (server)</string>
+    <string name="pref_description_ktm_soft_keyboard">Trimiteți comenzile de la tastatura software către computerul primar Windows (server)</string>
+    <string name="pref_description_ktm_stylus">Trimiteți intrarea stiloului pe computerul primar Windows (server)</string>
+    <string name="pref_description_native_res">De obicei utilizat pentru extensie desktop</string>
+    <string name="pref_enter_autoconnect_ip_message">Introduceți adresa IP</string>
+    <string name="pref_header_compression">Calitate/Performanță</string>
+    <string name="pref_header_connection">Conexiune</string>
+    <string name="pref_header_keyboard">Tastatură</string>
+    <string name="pref_header_pen">Pix</string>
+    <string name="pref_header_resolution">Rezoluţie</string>
+    <string name="pref_header_rotation">Rotație</string>
+    <string name="pref_header_touch">Ecran tactil</string>
+    <string name="pref_image_quality">Calitatea imaginii</string>
+    <string name="pref_resolution_list_btn_neg">ANULARE</string>
+    <string name="pref_resolution_list_btn_pos">APLICĂ</string>
+    <string name="pref_text_ktm_sonarpen">Configurați SonarPen Stilou</string>
+    <string name="pref_title_auto_connect">Conectare automată</string>
+    <string name="pref_title_auto_connect_ip">Conectare automată la adresa IP:</string>
+    <string name="pref_title_autoreconnect">Reconectare automată</string>
+    <string name="pref_title_autorotation">Auto rotație</string>
+    <string name="pref_title_bmp_conf">Adancimea/profunzimea de culoare a redării</string>
+    <string name="pref_title_color_depth">Codificarea adâncimii culorii</string>
+    <string name="pref_title_custom_res">Folosiți rezoluția personalizată</string>
+    <string name="pref_title_custom_res_choose">Alegeți rezoluție personalizată</string>
+    <string name="pref_title_discovery">Descoperire automată a serverului</string>
+    <string name="pref_title_fps">Personalizare rata FPS</string>
+    <string name="pref_title_ktm_mouse">Activați controlul ecranului tactil</string>
+    <string name="pref_title_ktm_soft_keyboard">Activați controlul tastaturii software</string>
+    <string name="pref_title_ktm_sonarpen">Stilou SonarPen</string>
+    <string name="pref_title_ktm_stylus">Activați controlul ecranului stiloului</string>
+    <string name="pref_title_native_res">Utilizați rezoluția nativă a dispozitivului Android</string>
+    <string name="pref_title_touch_type">Tipuri intrare ecran tactil</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="sonarPenGrantPermissionNeeded">Nu puteți utiliza SonarPen fără acordarea permisiunilor</string>
+    <string name="sonarPenPrefCalibrate">Calibrați SonarPen</string>
+    <string name="sonarPenPrefCancel">Anulare</string>
+    <string name="sonarPenPrefDisable">Dezactivați SonarPen</string>
+    <string name="sonarPenPrefEnable">Activați SonarPen</string>
+    <string name="sonarPenPrefMainText">Aplicația spacedesk acceptă stiloul SonarPen. Consultați opțiunile de mai jos pentru ao activa / dezactiva, vizitați site-ul web SonarPen sau calibrați SonarPen.</string>
+    <string name="sonarPenPrefMainTextStatusDisabled">Stare SonarPen - DEZACTIVAT</string>
+    <string name="sonarPenPrefMainTextStatusEnabled">Stare SonarPen - ACTIVAT</string>
+    <string name="sonarPenPrefMainTextStatusEnabledCalibrated">CALIBRAT</string>
+    <string name="sonarPenPrefMainTextStatusEnabledNotCalibrated">NU ESTE CALIBRAT</string>
+    <string name="sonarPenPrefPalmRejectionDisable">dezactivați respingerea palmei</string>
+    <string name="sonarPenPrefPalmRejectionEnable">permite ctivați respingerea palmei</string>
+    <string name="sonarPenPrefReCalibrate">Recalibrați SonarPen</string>
+    <string name="sonarPenPrefWebsite">Site-ul SonarPen</string>
+    <string name="sonarPenToastSonarPenDisabled">SonarPen dezactivat</string>
+    <string name="sonarPenToastSonarPenEnabled">SonarPen activat</string>
+    <string name="spResFirstElement">Rezoluția…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_input_devices">Dispozitive de intrare</string>
+    <string name="title_activity_settings">Setări</string>
+    <string name="toastInvalidIpText">"IP invalid - "</string>
+    <string name="toastSonarPenStatusConnected">SonarPen conectat</string>
+    <string name="toastSonarPenStatusDisconnected">SonarPen Deconectat</string>
+    <string name="toastSonarPenStatusNotConnected">SonarPen nu este conectat</string>
+    <string name="toastTextDisplayDisconnected">Display deconectat</string>
+    <string name="toastTxtAutoConIpDisabled">Conectare automată dezactivată, IPul pentru conectare automată este gol</string>
+    <string name="toastTxtAutoConIpNotSaved">Conectarea automată IP nu a fost salvată - Încercați din nou</string>
+    <string name="toastTxtAutoConIpSaved">Conectare automată IP salvată</string>
+    <string name="toastTxtDisplayConnected">Display conectat</string>
+    <string name="toastTxtInvalidIp">IP invalid</string>
+    <string name="toastTxtUnableToConnect">Nu se poate conecta</string>
+    <string name="tvPrefResHint">Intrările marcate (*) sunt rezoluții preferate care se potrivesc cu raportul de aspect al dispozitivului.</string>
+</resources>

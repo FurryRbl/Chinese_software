@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:enabled="true"
+        android:checked="true"
+        android:title="@string/pref_title_ktm_mouse"
+        android:key="@string/pref_key_ktm_mouse"
+        android:summary="@string/pref_description_ktm_mouse"
+        android:defaultValue="true" />
+    <ListPreference
+        android:entries="@array/pref_touch_type_titles"
+        android:title="@string/pref_title_touch_type"
+        android:key="@string/pref_key_ktm_touch_type"
+        android:dependency="@string/pref_key_ktm_mouse"
+        android:defaultValue="0"
+        android:positiveButtonText="@null"
+        android:negativeButtonText="@null"
+        android:entryValues="@array/pref_touch_type_values" />
+</PreferenceScreen>

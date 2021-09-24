@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:enabled="true"
+        android:checked="true"
+        android:title="@string/pref_title_native_res"
+        android:key="@string/pref_key_native_resolution"
+        android:summary="@string/pref_description_native_res"
+        android:defaultValue="true" />
+    <CheckBoxPreference
+        android:enabled="true"
+        android:checked="true"
+        android:title="@string/pref_title_custom_res"
+        android:key="@string/pref_key_custom_resolution"
+        android:summary="@string/pref_description_custom_res"
+        android:defaultValue="true" />
+    <ph.spacedesk.httpwww.spacedesk.SADialogPreferenceResolution
+        android:title="@string/pref_title_custom_res_choose"
+        android:key="@string/pref_key_resolution_list"
+        android:dependency="@string/pref_key_custom_resolution"
+        android:positiveButtonText="@string/pref_resolution_list_btn_pos"
+        android:negativeButtonText="@string/pref_resolution_list_btn_neg" />
+</PreferenceScreen>

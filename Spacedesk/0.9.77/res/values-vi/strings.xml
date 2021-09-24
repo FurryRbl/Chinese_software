@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CDS">Không thể phát hiện bất kỳ Máy chính nào</string>
+    <string name="CDSButtonDiscoveryOff">Kết nối với máy chính</string>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">phím cách</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="action_about">Trong khoảng</string>
+    <string name="action_contact_support">Hỗ trợ kỹ thuật</string>
+    <string name="action_input_devices">Thiết bị đầu vào</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_view_manual">Hướng dẫn sử dụng</string>
+    <string name="activity_display_label_display_off">HIỂN THỊ RA</string>
+    <string name="app_website_error_browser_missing">Không thể mở trình duyệt: Vui lòng kiểm tra xem có trình duyệt nào được cài đặt trên thiết bị của bạn không.</string>
+    <string name="discoveryConnectionText">"Kết nối: "</string>
+    <string name="dlgDisconnectNegBtn">Huỷ bỏ</string>
+    <string name="dlgDisconnectPosBtn">OK</string>
+    <string name="dlgDisconnectText">Bạn có chắc chắn muốn quay lại menu chính không?</string>
+    <string name="dlgDisconnectTitle">Rời khỏi màn hình</string>
+    <string name="dlgInitialInfoBtn">OK</string>
+    <string name="dlgInitialInfoCheckboxText">Không hiển thị lại hộp thư này</string>
+    <string name="dlgInitialInfoPosButton">OK</string>
+    <string name="dlgInitialInfoText">"Ứng dụng Android có khoảng cách này chỉ có thể kết nối với Trình điều khiển Windows có khoảng cách.
+
+Bạn có thể tải xuống Trình điều khiển Windows mới nhất từ:https://www.spacedesk.net/
+
+Ghi chú trợ giúp và phát hành: https://www.spacedesk.net"</string>
+    <string name="dlgInitialInfoTitle">THÔNG TIN QUAN TRỌNG:</string>
+    <string name="dlgProgressCancelNegBtn">Huỷ bỏ</string>
+    <string name="dlgProgressCanceledToastText">bỏ dở</string>
+    <string name="dlgTextServerRestrictionPen">"Bạn không thể sử dụng tính năng bút cảm ứng với DRIVER có khoảng cách giữa Windows-PC hiện tại của mình.
+Vui lòng tải xuống VÒNG LÁI XE KHÔNG GIAN mới nhất từ www.spacedesk.net!"</string>
+    <string name="dlgTitleServerRestrictionMain">Tính năng không được hỗ trợ ở phía máy chủ</string>
+    <string name="dlg_SoftKBInput_PosBtn">OK</string>
+    <string name="dlg_SoftKBInput_Text">"Để sử dụng tính năng nhập bàn phím của phần mềm cho máy chủ spacedesk của bạn, vui lòng cài đặt ít nhất phiên bản spacedesk DRIVER 0.9.61 dành cho Windows 10!
+
+Bạn có thể tải xuống phiên bản mới nhất của spacedesk Windows DRIVER từ: https://www.spacedesk.net
+
+"</string>
+    <string name="dlg_SoftKBInput_Title">THÔNG TIN QUAN TRỌNG:</string>
+    <string name="dlg_SoftKBInput_doNotShowAgain">Không hiển thị lại hộp thư này</string>
+    <string name="dlg_add_ip_btn_neg">HỦY</string>
+    <string name="dlg_add_ip_btn_pos">THÊM VÀO</string>
+    <string name="dlg_add_ip_btn_pos_discovery_off">KẾT NỐI</string>
+    <string name="dlg_add_ip_empty_list_text">Danh sách trống</string>
+    <string name="dlg_add_ip_text">Nhập địa chỉ IP của PC chính của bạn:</string>
+    <string name="dlg_add_ip_text_recent">Gần đây:</string>
+    <string name="dlg_autoconnect_dot">.</string>
+    <string name="hostname">Kết nối với máy chính (Server)</string>
+    <string name="hostnameDiscoveryOff">Khám phá tắt - để tự động khám phá, hãy kiểm tra cài đặt</string>
+    <string name="ipValidationText">Đang tiến hành xác thực IP…</string>
+    <string name="ivInfoDlgText">"Vui lòng nhấp vào một địa chỉ máy chủ máy chính được phát hiện để kết nối.
+
+Nếu bạn không thấy máy chủ mình muốn, hãy nhập địa chỉ IP theo cách thủ công bằng cách nhấp vào nút + ở bên trái nút i."</string>
+    <string name="ivInfoDlgTextDiscoveryOff">Vui lòng nhấp vào nút bên dưới để nhập địa chỉ IP của máy chính của bạn. Do phát hiện cài đặt TẮT, bạn không thể tự động khám phá bất kỳ máy chính nào!</string>
+    <string name="ivInfoDlgTitle">Thông tin</string>
+    <string name="manuallyAddingIpText">"Thêm IP theo cách thủ công: "</string>
+    <string name="msgBoxDisconnectedMainMessage">"Ngắt kết nối do lỗi máy chủ
+
+Error Code: "</string>
+    <string name="msgBoxDisconnectedManuallyTitleDisconnected">Đã ngắt kết nối thủ công</string>
+    <string name="msgBoxDisconnectedTextConFailure">Kết nối thất bại</string>
+    <string name="msgBoxDisconnectedTextConnectedTime">"Ngắt kết nối thủ công
+
+Thời gian kết nối: "</string>
+    <string name="msgBoxDisconnectedTextConnectionFailed">Kết nối thất bại!</string>
+    <string name="msgBoxDisconnectedTextErrorInfo">"
+
+Error Info: "</string>
+    <string name="msgBoxDisconnectedTextUnableToConnect">Không thể kết nối!</string>
+    <string name="msgBoxDisconnectedTitleDisconnected">Đã ngắt kết nối</string>
+    <string name="mvcViewTextAutoConnectingTo">"Tự động kết nối với "</string>
+    <string name="mvcViewTextConnectingTo">"Đang kết nối tới "</string>
+    <string name="mvcViewTextDisconnectedReconnectingTo">"được kết nối - Đang kết nối lại với "</string>
+    <string name="mvcViewTextDisconnectingFrom">"Ngắt kết nối khỏi "</string>
+    <string name="mvcViewTextDisplayOFF">Đã kết nối - TẮT màn hình</string>
+    <string name="mvcViewTextPowersave">"Powersave - Đang kết nối lại với "</string>
+    <string name="prefDlgResTxtAborted">Bị hủy bỏ</string>
+    <string name="prefDlgResValidationFailedTxtBigger">"Độ phân giải không được lớn hơn "</string>
+    <string name="prefDlgResValidationFailedTxtEmpty">Chiều rộng / Chiều cao không được để trống</string>
+    <string name="prefDlgResValidationFailedTxtMultiple">Chiều rộng / Chiều cao phải là bội số của 2</string>
+    <string name="prefDlgResValidationFailedTxtNative">(native)</string>
+    <string name="prefDlgResValidationFailedTxtNumeric">Đầu vào không phải số cho Chiều rộng / Chiều cao</string>
+    <string name="prefDlgResValidationFailedTxtSmaller">"Độ phân giải không được nhỏ hơn "</string>
+    <string name="prefDlgResValidationFailedTxtSmallestWin81">"Không sử dụng độ phân giải này trên Windows 8.1 "</string>
+    <string name="prefDlgResValidationTxtChangesApplied">Các thay đổi được áp dụng</string>
+    <string name="pref_description_auto_connect">Tự động kết nối với máy chủ khi khởi chạy ứng dụng</string>
+    <string name="pref_description_auto_connect_ip">Nhập địa chỉ IP của máy chủ để kết nối tự động</string>
+    <string name="pref_description_autoreconnect">Tự động kết nối lại thiết bị khách</string>
+    <string name="pref_description_autorotation">Xoay màn hình của máy chính bằng cách xoay thiết bị khách</string>
+    <string name="pref_description_custom_res">Thường được sử dụng để nhân bản máy tính để bàn</string>
+    <string name="pref_description_discovery">Bật / Tắt tính năng khám phá máy chính spacedesk tự động</string>
+    <string name="pref_description_ktm_mouse">Gửi đầu vào màn hình cảm ứng tới PC chính của Windows (server)</string>
+    <string name="pref_description_ktm_soft_keyboard">Gửi đầu vào bằng bàn phím phần mềm tới PC chính của Windows (máy chủ)</string>
+    <string name="pref_description_ktm_stylus">Gửi đầu vào bút cảm ứng tới PC chính của Windows (máy chủ)</string>
+    <string name="pref_description_native_res">Thường được sử dụng cho tiện ích mở rộng máy tính để bàn</string>
+    <string name="pref_enter_autoconnect_ip_message">Nhập địa chỉ IP của bạn</string>
+    <string name="pref_header_compression">Chất lượng/hiệu suất</string>
+    <string name="pref_header_connection">Kết nối</string>
+    <string name="pref_header_keyboard">Bàn phím</string>
+    <string name="pref_header_pen">Cây bút</string>
+    <string name="pref_header_resolution">Độ phân giải</string>
+    <string name="pref_header_rotation">Vòng xoay</string>
+    <string name="pref_header_touch">Màn hình cảm ứng</string>
+    <string name="pref_image_quality">Chất lượng hình ảnh</string>
+    <string name="pref_resolution_list_btn_neg">HỦY</string>
+    <string name="pref_resolution_list_btn_pos">ỨNG DỤNG</string>
+    <string name="pref_text_ktm_sonarpen">Định cấu hình bút cảm ứng SonarPen</string>
+    <string name="pref_title_auto_connect">Kết nối tự động</string>
+    <string name="pref_title_auto_connect_ip">Tự động kết nối với địa chỉ IP:</string>
+    <string name="pref_title_autoreconnect">Tự động kết nối lại</string>
+    <string name="pref_title_autorotation">Tự động xoay</string>
+    <string name="pref_title_bmp_conf">Độ sâu màu hiển thị</string>
+    <string name="pref_title_color_depth">Độ sâu màu mã hóa</string>
+    <string name="pref_title_custom_res">Sử dụng độ phân giải tùy chỉnh</string>
+    <string name="pref_title_custom_res_choose">Chọn độ phân giải tùy chỉnh</string>
+    <string name="pref_title_discovery">Khám phá máy chủ tự động</string>
+    <string name="pref_title_fps">Tập quán FPS Rate</string>
+    <string name="pref_title_ktm_mouse">Bật điều khiển màn hình cảm ứng</string>
+    <string name="pref_title_ktm_soft_keyboard">Bật điều khiển bàn phím phần mềm</string>
+    <string name="pref_title_ktm_sonarpen">Bút cảm ứng SonarPen</string>
+    <string name="pref_title_ktm_stylus">Bật điều khiển màn hình bút cảm ứng</string>
+    <string name="pref_title_native_res">Sử dụng độ phân giải thiết bị Android gốc</string>
+    <string name="pref_title_touch_type">Loại đầu vào chạm</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="sonarPenGrantPermissionNeeded">Bạn không thể sử dụng SonarPen mà không cấp quyền</string>
+    <string name="sonarPenPrefCalibrate">Hiệu chỉnh SonarPen</string>
+    <string name="sonarPenPrefCancel">Huỷ bỏ</string>
+    <string name="sonarPenPrefDisable">Tắt SonarPen</string>
+    <string name="sonarPenPrefEnable">Bật SonarPen</string>
+    <string name="sonarPenPrefMainText">Ứng dụng spacedesk hỗ trợ bút cảm ứng SonarPen. Xem các tùy chọn bên dưới để bật / tắt nó, truy cập SonarPen-Website hoặc hiệu chỉnh SonarPen.</string>
+    <string name="sonarPenPrefMainTextStatusDisabled">Trạng thái SonarPen - ĐÃ TẮT</string>
+    <string name="sonarPenPrefMainTextStatusEnabled">Trạng thái SonarPen - ĐÃ BẬT</string>
+    <string name="sonarPenPrefMainTextStatusEnabledCalibrated">ĐÃ ĐÁNH GIÁ</string>
+    <string name="sonarPenPrefMainTextStatusEnabledNotCalibrated">KHÔNG ĐƯỢC ĐÁNH GIÁ</string>
+    <string name="sonarPenPrefPalmRejectionDisable">vô hiệu hóa từ chối lòng bàn tay</string>
+    <string name="sonarPenPrefPalmRejectionEnable">cho phép từ chối lòng bàn tay</string>
+    <string name="sonarPenPrefReCalibrate">Hiệu chỉnh lại SonarPen</string>
+    <string name="sonarPenPrefWebsite">Trang web SonarPen</string>
+    <string name="sonarPenToastSonarPenDisabled">SonarPen bị vô hiệu hóa</string>
+    <string name="sonarPenToastSonarPenEnabled">SonarPen được kích hoạt</string>
+    <string name="spResFirstElement">Quyết tâm…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_input_devices">Thiết bị đầu vào</string>
+    <string name="title_activity_settings">Cài đặt</string>
+    <string name="toastInvalidIpText">"IP không hợp lệ - "</string>
+    <string name="toastSonarPenStatusConnected">Đã kết nối SonarPen</string>
+    <string name="toastSonarPenStatusDisconnected">SonarPen đã ngắt kết nối</string>
+    <string name="toastSonarPenStatusNotConnected">SonarPen không được kết nối</string>
+    <string name="toastTextDisplayDisconnected">Hiển thị bị ngắt kết nối</string>
+    <string name="toastTxtAutoConIpDisabled">Kết nối Tự động bị tắt do IP Kết nối Tự động trống</string>
+    <string name="toastTxtAutoConIpNotSaved">IP Kết nối Tự động chưa được lưu - Vui lòng thử lại</string>
+    <string name="toastTxtAutoConIpSaved">IP Kết nối Tự động đã được lưu</string>
+    <string name="toastTxtDisplayConnected">Màn hình được kết nối</string>
+    <string name="toastTxtInvalidIp">IP không hợp lệ</string>
+    <string name="toastTxtUnableToConnect">Không thể kết nối</string>
+    <string name="tvPrefResHint">Các mục được đánh dấu (*) là độ phân giải ưu tiên phù hợp với tỷ lệ khung hình của thiết bị của bạn.</string>
+</resources>

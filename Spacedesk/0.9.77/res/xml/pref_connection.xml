@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:enabled="true"
+        android:checked="false"
+        android:title="@string/pref_title_autoreconnect"
+        android:key="@string/pref_key_auto_reconnect"
+        android:summary="@string/pref_description_autoreconnect"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:enabled="true"
+        android:checked="false"
+        android:title="@string/pref_title_auto_connect"
+        android:key="@string/pref_key_auto_connect"
+        android:summary="@string/pref_description_auto_connect"
+        android:defaultValue="false" />
+    <EditTextPreference
+        android:title="@string/pref_title_auto_connect_ip"
+        android:key="@string/pref_key_auto_connect_ip"
+        android:summary="@string/pref_description_auto_connect_ip"
+        android:dependency="@string/pref_key_auto_connect"
+        android:dialogLayout="@layout/dialog_preference_autoconnect_ip_edittext"
+        android:inputType="phone" />
+    <CheckBoxPreference
+        android:enabled="true"
+        android:checked="true"
+        android:title="@string/pref_title_discovery"
+        android:key="@string/pref_key_discovery"
+        android:summary="@string/pref_description_discovery"
+        android:defaultValue="true" />
+</PreferenceScreen>

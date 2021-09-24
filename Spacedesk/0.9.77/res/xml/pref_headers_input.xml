@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:icon="@drawable/ic_mouse_black_24dp"
+        android:title="@string/pref_header_touch"
+        android:fragment="ph.spacedesk.httpwww.spacedesk.SAActivityInputDevices$TouchPreferenceFragment" />
+    <header
+        android:icon="@drawable/ic_baseline_keyboard_black_24"
+        android:title="@string/pref_header_keyboard"
+        android:fragment="ph.spacedesk.httpwww.spacedesk.SAActivityInputDevices$KeyboardPreferenceFragment" />
+    <header
+        android:icon="@drawable/ic_pen_black_24dp"
+        android:title="@string/pref_header_pen"
+        android:fragment="ph.spacedesk.httpwww.spacedesk.SAActivityInputDevices$PenPreferenceFragment" />
+</preference-headers>

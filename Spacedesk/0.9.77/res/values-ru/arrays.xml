@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_color_depth_titles">
+        <item>Высокое качество цветопередачи, низкая скорость (YUV 4.4.4)</item>
+        <item>Среднее качество цвета, средняя скорость (YUV 4.2.2)</item>
+        <item>Низкое качество цвета, высокая скорость (YUV 4.2.0)</item>
+    </string-array>
+    <string-array name="pref_touch_type_titles">
+        <item>Сенсорный экран (абсолютное касание)</item>
+        <item>Тачпад (относительное касание)</item>
+    </string-array>
+</resources>

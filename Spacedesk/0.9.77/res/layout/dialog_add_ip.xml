@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="20.0sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20.0dip"
+            android:layout_marginTop="20.0dip"
+            android:layout_marginRight="15.0dip"
+            android:text="@string/dlg_add_ip_text" />
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25.0dip"
+            android:layout_marginBottom="15.0dip">
+            <EditText
+                android:id="@id/etIp1"
+                android:layout_width="@dimen/dlg_ip_add_edit_text_width"
+                android:layout_height="@dimen/dlg_ip_add_edit_text_height"
+                android:maxLines="1"
+                android:maxLength="3"
+                android:inputType="number" />
+            <TextView
+                android:textSize="30.0sp"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dlg_ip_add_dot_text_height"
+                android:layout_marginTop="@dimen/dlg_ip_add_dot_text_margin_top"
+                android:text="@string/dlg_app_ip_dot" />
+            <EditText
+                android:id="@id/etIp2"
+                android:layout_width="@dimen/dlg_ip_add_edit_text_width"
+                android:layout_height="@dimen/dlg_ip_add_edit_text_height"
+                android:maxLines="1"
+                android:maxLength="3"
+                android:inputType="number" />
+            <TextView
+                android:textSize="30.0sp"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dlg_ip_add_dot_text_height"
+                android:layout_marginTop="@dimen/dlg_ip_add_dot_text_margin_top"
+                android:text="@string/dlg_app_ip_dot" />
+            <EditText
+                android:id="@id/etIp3"
+                android:layout_width="@dimen/dlg_ip_add_edit_text_width"
+                android:layout_height="@dimen/dlg_ip_add_edit_text_height"
+                android:maxLines="1"
+                android:maxLength="3"
+                android:inputType="number" />
+            <TextView
+                android:textSize="30.0sp"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dlg_ip_add_dot_text_height"
+                android:layout_marginTop="@dimen/dlg_ip_add_dot_text_margin_top"
+                android:text="@string/dlg_app_ip_dot" />
+            <EditText
+                android:id="@id/etIp4"
+                android:layout_width="@dimen/dlg_ip_add_edit_text_width"
+                android:layout_height="@dimen/dlg_ip_add_edit_text_height"
+                android:maxLines="1"
+                android:maxLength="3"
+                android:inputType="number" />
+        </LinearLayout>
+        <TextView
+            android:textSize="20.0sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20.0dip"
+            android:layout_marginTop="20.0dip"
+            android:layout_marginRight="15.0dip"
+            android:text="@string/dlg_add_ip_text_recent" />
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <Spinner
+                android:id="@id/spinnerRecentIp"
+                android:layout_width="300.0dip"
+                android:layout_height="50.0dip"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginTop="20.0dip"
+                android:layout_marginRight="15.0dip"
+                android:spinnerMode="dropdown" />
+            <TextView
+                android:textSize="20.0sp"
+                android:id="@id/tvListEmpty"
+                android:visibility="invisible"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dlg_add_ip_empty_list_text"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginTop="25.0dip"
+            android:layout_marginRight="15.0dip"
+            android:layout_marginBottom="15.0dip">
+            <Button
+                android:id="@id/btnNegativeDlg"
+                android:layout_width="150.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10.0dip"
+                android:text="@string/dlg_add_ip_btn_neg"
+                android:layout_toLeftOf="@id/btnPositiveDlg" />
+            <Button
+                android:id="@id/btnPositiveDlg"
+                android:layout_width="150.0dip"
+                android:layout_height="wrap_content"
+                android:text="@string/dlg_add_ip_btn_pos"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

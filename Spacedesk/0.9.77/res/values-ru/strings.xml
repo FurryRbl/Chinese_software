@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CDS">Не удается обнаружить основную машину</string>
+    <string name="CDSButtonDiscoveryOff">Подключиться к основному компьютеру</string>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="action_about">Информация</string>
+    <string name="action_contact_support">Техническая поддержка</string>
+    <string name="action_input_devices">Устройства ввода</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_view_manual">Руководство пользователя</string>
+    <string name="activity_display_label_display_off">ДИСПЛЕЙ ОТКЛЮЧЕН</string>
+    <string name="app_website_error_browser_missing">Не удалось открыть браузер: проверьте, установлен ли на вашем устройстве браузер.</string>
+    <string name="discoveryConnectionText">"Подключение: "</string>
+    <string name="dlgDisconnectNegBtn">Отмена</string>
+    <string name="dlgDisconnectPosBtn">ОК</string>
+    <string name="dlgDisconnectText">Вы уверены, что хотите вернуться в главное меню?</string>
+    <string name="dlgDisconnectTitle">Покидая дисплей</string>
+    <string name="dlgInitialInfoBtn">ОК</string>
+    <string name="dlgInitialInfoCheckboxText">Больше не показывать это сообщение</string>
+    <string name="dlgInitialInfoPosButton">ОК</string>
+    <string name="dlgInitialInfoText">"Это приложение spacedesk для Android может подключаться только к ДРАЙВЕРУ Windows spacedesk.
+
+Вы можете скачать последнюю версию ДРАЙВЕРА для Windows с: https://www.spacedesk.net/
+
+Справка и примечания к выпуску: https://www.spacedesk.net"</string>
+    <string name="dlgInitialInfoTitle">ВАЖНАЯ ИНФОРМАЦИЯ:</string>
+    <string name="dlgProgressCancelNegBtn">Отмена</string>
+    <string name="dlgProgressCanceledToastText">прерванный</string>
+    <string name="dlgTextServerRestrictionPen">"Вы не можете использовать стилус с вашим текущим ДРАЙВЕРОМ spacedesk для ПК с Windows.
+Загрузите последнюю версию ДРАЙВЕРА Spacedesk с сайта www.spacedesk.net!"</string>
+    <string name="dlgTitleServerRestrictionMain">Неподдерживаемая функция на стороне сервер</string>
+    <string name="dlg_SoftKBInput_PosBtn">ОК</string>
+    <string name="dlg_SoftKBInput_Text">"Чтобы использовать функцию ввода с программной клавиатуры для вашего сервера spacedesk, установите, по крайней мере, версию spacedesk DRIVER 0.9.61 для Windows 10!
+
+Вы можете скачать последнюю версию Windows DRIVER от spacedesk по ссылке: https://www.spacedesk.net"</string>
+    <string name="dlg_SoftKBInput_Title">ВАЖНАЯ ИНФОРМАЦИЯ:</string>
+    <string name="dlg_SoftKBInput_doNotShowAgain">Больше не показывать это сообщение</string>
+    <string name="dlg_add_ip_btn_neg">ОТМЕНА</string>
+    <string name="dlg_add_ip_btn_pos">ДОБАВИТЬ</string>
+    <string name="dlg_add_ip_btn_pos_discovery_off">СОЕДИНЯТЬ</string>
+    <string name="dlg_add_ip_empty_list_text">список пуст</string>
+    <string name="dlg_add_ip_text">Введите IP-адрес вашего основного ПК:</string>
+    <string name="dlg_add_ip_text_recent">Недавние:</string>
+    <string name="dlg_autoconnect_dot">.</string>
+    <string name="hostname">Подключиться к основному компьютеру (серверу)</string>
+    <string name="hostnameDiscoveryOff">Открытие выключено - для автоматического обнаружения проверьте настройки</string>
+    <string name="ipValidationText">Идет проверка IP…</string>
+    <string name="ivInfoDlgText">"Пожалуйста, щелкните по адресу одного из обнаруженных серверов основного компьютера, чтобы подключиться.
+
+Если вы не видите нужный сервер, введите IP-адрес вручную, нажав кнопку +, которая находится слева от i-кнопки."</string>
+    <string name="ivInfoDlgTextDiscoveryOff">Нажмите кнопку ниже, чтобы ввести IP-адрес вашего основного компьютера. Из-за того, что обнаружение отключено, вы не можете автоматически обнаруживать какие-либо основные машины!</string>
+    <string name="ivInfoDlgTitle">Информация</string>
+    <string name="manuallyAddingIpText">"Добавление IP вручную: "</string>
+    <string name="msgBoxDisconnectedMainMessage">"Отключено из-за ошибки сервера
+
+Код ошибки: "</string>
+    <string name="msgBoxDisconnectedManuallyTitleDisconnected">Отключено вручную</string>
+    <string name="msgBoxDisconnectedTextConFailure">Ошибка подключения</string>
+    <string name="msgBoxDisconnectedTextConnectedTime">"Отключено вручную
+
+Подключенное время:  "</string>
+    <string name="msgBoxDisconnectedTextConnectionFailed">Ошибка подключения!</string>
+    <string name="msgBoxDisconnectedTextErrorInfo">"
+
+Информация об ошибке: "</string>
+    <string name="msgBoxDisconnectedTextUnableToConnect">Невозможно подключиться!</string>
+    <string name="msgBoxDisconnectedTitleDisconnected">Отключен</string>
+    <string name="mvcViewTextAutoConnectingTo">"Автоматическое подключение к "</string>
+    <string name="mvcViewTextConnectingTo">"Присоединенный к "</string>
+    <string name="mvcViewTextDisconnectedReconnectingTo">"Отключено - Повторное подключение к "</string>
+    <string name="mvcViewTextDisconnectingFrom">"Отключение от "</string>
+    <string name="mvcViewTextDisplayOFF">Связано - ДИСПЛЕЙ ОТКЛЮЧЕН</string>
+    <string name="mvcViewTextPowersave">"Энергосбережение - Повторное подключение к "</string>
+    <string name="prefDlgResTxtAborted">Прервано</string>
+    <string name="prefDlgResValidationFailedTxtBigger">"Разрешение не должно быть больше "</string>
+    <string name="prefDlgResValidationFailedTxtEmpty">Ширина / высота не должны быть пустыми</string>
+    <string name="prefDlgResValidationFailedTxtMultiple">Ширина / высота должны быть кратны 2</string>
+    <string name="prefDlgResValidationFailedTxtNative">(родной)</string>
+    <string name="prefDlgResValidationFailedTxtNumeric">Нечисловой ввод для ширины / высоты</string>
+    <string name="prefDlgResValidationFailedTxtSmaller">"Разрешение не должно быть меньше "</string>
+    <string name="prefDlgResValidationFailedTxtSmallestWin81">"Не используйте это разрешение в Windows 8.1 "</string>
+    <string name="prefDlgResValidationTxtChangesApplied">Внесены изменения</string>
+    <string name="pref_description_auto_connect">Автоматически подключаться к серверу при инициализации приложения</string>
+    <string name="pref_description_auto_connect_ip">Введите IP-адрес сервера для автоматического подключения</string>
+    <string name="pref_description_autoreconnect">Автоматически переподключить клиент-устройство</string>
+    <string name="pref_description_autorotation">Поворот экрана основного компьютера путем поворота клиент-устройство</string>
+    <string name="pref_description_custom_res">Обычно используется для дублирования рабочего стола</string>
+    <string name="pref_description_discovery">Включение / отключение автоматического обнаружения основного компьютера spacedesk</string>
+    <string name="pref_description_ktm_mouse">Отправка данных с сенсорного экрана на основной ПК с Windows (сервер)</string>
+    <string name="pref_description_ktm_soft_keyboard">Отправка программного ввода с клавиатуры на основной компьютер (сервер) Windows</string>
+    <string name="pref_description_ktm_stylus">Отправить ввод с помощью стилуса на основной компьютер (сервер) Windows</string>
+    <string name="pref_description_native_res">Обычно используется для расширения рабочего стола</string>
+    <string name="pref_enter_autoconnect_ip_message">Введите свой IP-адрес</string>
+    <string name="pref_header_compression">Качество / Производительность</string>
+    <string name="pref_header_connection">Подключение</string>
+    <string name="pref_header_keyboard">Клавиатура</string>
+    <string name="pref_header_pen">Ручка</string>
+    <string name="pref_header_resolution">Разрешение</string>
+    <string name="pref_header_rotation">Поворот</string>
+    <string name="pref_header_touch">Сенсорный экран</string>
+    <string name="pref_image_quality">Качество изображения</string>
+    <string name="pref_resolution_list_btn_neg">ОТМЕНА</string>
+    <string name="pref_resolution_list_btn_pos">ИСПОЛЬЗОВАТЬ</string>
+    <string name="pref_text_ktm_sonarpen">Настроить стилус SonarPen</string>
+    <string name="pref_title_auto_connect">Автоматическое подключение</string>
+    <string name="pref_title_auto_connect_ip">Автоматическое подключение к IP-адресу:</string>
+    <string name="pref_title_autoreconnect">Авто-переподключение</string>
+    <string name="pref_title_autorotation">Авто-Поворот</string>
+    <string name="pref_title_bmp_conf">Глубина цвета рендеринга</string>
+    <string name="pref_title_color_depth">Кодирование глубины цвета</string>
+    <string name="pref_title_custom_res">Использовать нестандартное разрешение</string>
+    <string name="pref_title_custom_res_choose">Выберите нестандартное разрешение</string>
+    <string name="pref_title_discovery">Автоматическое обнаружение сервера</string>
+    <string name="pref_title_fps">Пользовательская частота кадров в секунду</string>
+    <string name="pref_title_ktm_mouse">Включить управление сенсорным экраном</string>
+    <string name="pref_title_ktm_soft_keyboard">Включить программное управление с клавиатуры</string>
+    <string name="pref_title_ktm_sonarpen">Стилус SonarPen</string>
+    <string name="pref_title_ktm_stylus">Включить управление экраном стилуса</string>
+    <string name="pref_title_native_res">Использовать собственное разрешение устройства Android</string>
+    <string name="pref_title_touch_type">Тип сенсорного ввода</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="sonarPenGrantPermissionNeeded">Вы не можете использовать SonarPen без разрешения</string>
+    <string name="sonarPenPrefCalibrate">Калибровка SonarPen</string>
+    <string name="sonarPenPrefCancel">Отмена</string>
+    <string name="sonarPenPrefDisable">Отключить SonarPen</string>
+    <string name="sonarPenPrefEnable">Включить SonarPen</string>
+    <string name="sonarPenPrefMainText">Приложение spacedesk поддерживает стилус SonarPen. См. Параметры ниже, чтобы включить / отключить его, посетите веб-сайт SonarPen или откалибруйте SonarPen.</string>
+    <string name="sonarPenPrefMainTextStatusDisabled">Статус SonarPen - ОТКЛЮЧЕН</string>
+    <string name="sonarPenPrefMainTextStatusEnabled">Статус SonarPen - ВКЛЮЧЕН</string>
+    <string name="sonarPenPrefMainTextStatusEnabledCalibrated">КАЛИБРИРОВАННАЯ</string>
+    <string name="sonarPenPrefMainTextStatusEnabledNotCalibrated">НЕ КАЛИБРОВАНО</string>
+    <string name="sonarPenPrefPalmRejectionDisable">отключить отклонение ладони</string>
+    <string name="sonarPenPrefPalmRejectionEnable">включить отклонение ладони</string>
+    <string name="sonarPenPrefReCalibrate">Перекалибровать SonarPen</string>
+    <string name="sonarPenPrefWebsite">Веб-сайт SonarPen</string>
+    <string name="sonarPenToastSonarPenDisabled">SonarPen отключен</string>
+    <string name="sonarPenToastSonarPenEnabled">SonarPen включен</string>
+    <string name="spResFirstElement">разрешение…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_input_devices">Устройства ввода</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="toastInvalidIpText">"Неверный IP - "</string>
+    <string name="toastSonarPenStatusConnected">SonarPen подключен</string>
+    <string name="toastSonarPenStatusDisconnected">SonarPen отключен</string>
+    <string name="toastSonarPenStatusNotConnected">SonarPen не подключен</string>
+    <string name="toastTextDisplayDisconnected">Дисплей отключен</string>
+    <string name="toastTxtAutoConIpDisabled">Автоматическое подключение отключено из-за пустого IP-адреса автоматического подключения</string>
+    <string name="toastTxtAutoConIpNotSaved">IP-адрес автоматического подключения не сохраняется. Повторите попытку.</string>
+    <string name="toastTxtAutoConIpSaved">IP-адрес автоматического подключения сохранен</string>
+    <string name="toastTxtDisplayConnected">Дисплей подключен</string>
+    <string name="toastTxtInvalidIp">Неверный IP</string>
+    <string name="toastTxtUnableToConnect">Невозможно подключиться</string>
+    <string name="tvPrefResHint">Записи, отмеченные (*), представляют собой предпочтительные разрешения, соответствующие соотношению сторон вашего устройства.</string>
+</resources>

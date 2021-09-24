@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ph.spacedesk.httpwww.spacedesk.SAIntegerEditTextPreference
+        android:enabled="true"
+        android:maxLength="6"
+        android:title="@string/pref_title_extended_timeout_auto_connect"
+        android:key="@string/pref_key_timeout_auto_connect"
+        android:summary="@string/pref_text_extended_timeout_auto_connect"
+        android:defaultValue="0"
+        android:inputType="number" />
+    <ph.spacedesk.httpwww.spacedesk.SAIntegerEditTextPreference
+        android:enabled="true"
+        android:maxLength="6"
+        android:title="@string/pref_title_extended_timeout_reconnect"
+        android:key="@string/pref_key_timeout_reconnect"
+        android:summary="@string/pref_text_extended_timeout_reconnect"
+        android:defaultValue="0"
+        android:inputType="number" />
+    <ListPreference
+        android:entries="@array/pref_extended_encryption_type_titles"
+        android:title="@string/pref_title_extended_encryption"
+        android:key="@string/pref_key_encryption"
+        android:summary="@string/pref_text_extended_encryption"
+        android:defaultValue="0"
+        android:positiveButtonText="@null"
+        android:negativeButtonText="@null"
+        android:entryValues="@array/pref_extended_encryption_type_values" />
+    <EditTextPreference
+        android:enabled="true"
+        android:maxLength="50"
+        android:title="@string/pref_title_extended_encryption_client_identity"
+        android:key="@string/pref_key_encryption_psk_identity"
+        android:summary="@string/pref_text_extended_encryption_client_identity"
+        android:defaultValue="Client_identity" />
+    <EditTextPreference
+        android:enabled="true"
+        android:maxLength="100"
+        android:title="@string/pref_title_extended_encryption_key"
+        android:key="@string/pref_key_encryption_psk_key"
+        android:summary="@string/pref_text_extended_encryption_key"
+        android:defaultValue="1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A" />
+    <ph.spacedesk.httpwww.spacedesk.SAIntegerEditTextPreference
+        android:enabled="true"
+        android:maxLength="6"
+        android:title="@string/pref_title_extended_con_watcher_timeout"
+        android:key="@string/pref_key_con_watcher_timeout_delta"
+        android:summary="@string/pref_text_extended_con_watcher_timeout"
+        android:defaultValue="20000"
+        android:inputType="number" />
+    <ph.spacedesk.httpwww.spacedesk.SAIntegerEditTextPreference
+        android:enabled="true"
+        android:maxLength="6"
+        android:title="@string/pref_title_extended_con_watcher_polling_period"
+        android:key="@string/pref_key_con_watcher_poll_period"
+        android:summary="@string/pref_text_extended_con_watcher_polling_period"
+        android:defaultValue="10000"
+        android:inputType="number" />
+</PreferenceScreen>

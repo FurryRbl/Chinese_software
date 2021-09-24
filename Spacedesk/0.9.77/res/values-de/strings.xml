@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CDS">Primäre Maschine kann nicht erkannt werden</string>
+    <string name="CDSButtonDiscoveryOff">Verbindung zum primären Computer</string>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Strg +</string>
+    <string name="abc_menu_delete_shortcut_label">Löschen</string>
+    <string name="abc_menu_enter_shortcut_label">Eingabetaste</string>
+    <string name="abc_menu_function_shortcut_label">Funktionstaste +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta-Taste +</string>
+    <string name="abc_menu_shift_shortcut_label">Umschalttaste +</string>
+    <string name="abc_menu_space_shortcut_label">Leertaste +</string>
+    <string name="abc_menu_sym_shortcut_label">Sym-Taste +</string>
+    <string name="abc_prepend_shortcut_label">Menütaste +</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="action_about">Über uns</string>
+    <string name="action_contact_support">Technischer Support</string>
+    <string name="action_input_devices">Eingabegeräte</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_view_manual">Benutzerhandbuch</string>
+    <string name="activity_display_label_display_off">BILDSCHIRM AUS</string>
+    <string name="app_website_error_browser_missing">Browser konnte nicht geöffnet werden: Bitte überprüfen Sie, ob auf Ihrem Gerät ein Browser installiert ist.</string>
+    <string name="discoveryConnectionText">"Verbindung: "</string>
+    <string name="dlgDisconnectNegBtn">ABBRECHEN</string>
+    <string name="dlgDisconnectPosBtn">OK</string>
+    <string name="dlgDisconnectText">Sind Sie sicher, dass Sie zum Hauptmenü zurückkehren möchten?</string>
+    <string name="dlgDisconnectTitle">Verlasse Bildschirm</string>
+    <string name="dlgInitialInfoBtn">OK</string>
+    <string name="dlgInitialInfoCheckboxText">Diese Meldung nicht erneut anzeigen</string>
+    <string name="dlgInitialInfoPosButton">OK</string>
+    <string name="dlgInitialInfoText">"Diese spacedesk-Android-App kann nur eine Verbindung zu einem spacedesk-Windows-Treiber herstellen.
+
+Sie können den neuesten Windows-Treiber von folgender Webseite herunterladen: https://www.spacedesk.net/
+
+Hilfe und Versionshinweise: https://www.spacedesk.net"</string>
+    <string name="dlgInitialInfoTitle">WICHTIGE INFO:</string>
+    <string name="dlgProgressCancelNegBtn">Abbrechen</string>
+    <string name="dlgProgressCanceledToastText">abgebrochen</string>
+    <string name="dlgTextServerRestrictionPen">"Sie können die Stiftfunktion nicht mit Ihrem aktuellen Windows-PC spacedesk DRIVER verwenden.
+Bitte laden Sie den neuesten spacedesk DRIVER von www.spacedesk.net herunter!"</string>
+    <string name="dlgTitleServerRestrictionMain">Nicht unterstützte Funktion auf der Serverseite</string>
+    <string name="dlg_SoftKBInput_PosBtn">OK</string>
+    <string name="dlg_SoftKBInput_Text">"Um die Software-Tastatureingabefunktion für Ihren spacedesk-Server zu verwenden, installieren Sie mindestens spacedesk DRIVER Version 0.9.61 für Windows 10!
+
+Sie können den neuesten spacedesk Windows DRIVER herunterladen von: https://www.spacedesk.net"</string>
+    <string name="dlg_SoftKBInput_Title">WICHTIGE INFO:</string>
+    <string name="dlg_SoftKBInput_doNotShowAgain">Diese Meldung nicht erneut anzeigen</string>
+    <string name="dlg_add_ip_btn_neg">ABBRECHEN</string>
+    <string name="dlg_add_ip_btn_pos">HINZUFÜGEN</string>
+    <string name="dlg_add_ip_btn_pos_discovery_off">VERBINDEN</string>
+    <string name="dlg_add_ip_empty_list_text">Liste ist leer</string>
+    <string name="dlg_add_ip_text">Geben Sie die IP-Adresse Ihres Primär-PCs ein:</string>
+    <string name="dlg_add_ip_text_recent">Aktuell:</string>
+    <string name="dlg_autoconnect_dot">.</string>
+    <string name="hostname">Verbindung zum primären Computer (Server)</string>
+    <string name="hostnameDiscoveryOff">Serversuche AUS - für Auto-Server-Suche Einstellung prüfen</string>
+    <string name="ipValidationText">IP-Validierung läuft…</string>
+    <string name="ivInfoDlgText">"Klicken Sie auf eine erkannte Adresse des primären Computerservers, um eine Verbindung herzustellen.
+
+Wenn Sie den gewünschten Server nicht sehen, geben Sie die IP-Adresse manuell ein, indem Sie auf die Schaltfläche + klicken, die sich neben der i-Schaltfläche befindet."</string>
+    <string name="ivInfoDlgTextDiscoveryOff">Bitte klicken Sie auf die Schaltfläche unten, um die IP-Adresse Ihres primären Computers einzugeben. Aufgrund der Einstellung Auto-Erkennung AUS können Sie keine primären Maschinen automatisch erkennen!</string>
+    <string name="ivInfoDlgTitle">Information</string>
+    <string name="manuallyAddingIpText">"Manuelles Hinzufügen von IP: "</string>
+    <string name="msgBoxDisconnectedMainMessage">"Verbindung durch Serverfehler getrennt
+
+Fehler Code: "</string>
+    <string name="msgBoxDisconnectedManuallyTitleDisconnected">Manuell getrennt</string>
+    <string name="msgBoxDisconnectedTextConFailure">Verbindungsfehler</string>
+    <string name="msgBoxDisconnectedTextConnectedTime">"
+
+Verbundene Zeit: "</string>
+    <string name="msgBoxDisconnectedTextConnectionFailed">Verbindung fehlgeschlagen!</string>
+    <string name="msgBoxDisconnectedTextErrorInfo">"
+
+Fehler Info: "</string>
+    <string name="msgBoxDisconnectedTextUnableToConnect">Verbindung konnte nicht hergestellt werden!</string>
+    <string name="msgBoxDisconnectedTitleDisconnected">Getrennte Verbindung</string>
+    <string name="mvcViewTextAutoConnectingTo">"Automatische Verbindung zu "</string>
+    <string name="mvcViewTextConnectingTo">"Verbinde zu "</string>
+    <string name="mvcViewTextDisconnectedReconnectingTo">"Getrennt - Wiederverbindung zu "</string>
+    <string name="mvcViewTextDisconnectingFrom">"Trennen von "</string>
+    <string name="mvcViewTextDisplayOFF">Verbunden - Bildschirm AUS</string>
+    <string name="mvcViewTextPowersave">"Energiesparmodus - Wiederverbindung zu "</string>
+    <string name="prefDlgResTxtAborted">Abgebrochen</string>
+    <string name="prefDlgResValidationFailedTxtBigger">"Die Auflösung darf nicht größer sein als "</string>
+    <string name="prefDlgResValidationFailedTxtEmpty">Breite/Höhe darf nicht leer sein</string>
+    <string name="prefDlgResValidationFailedTxtMultiple">Breite/Höhe muss ein Vielfaches von 2 sein</string>
+    <string name="prefDlgResValidationFailedTxtNative">(nativ)</string>
+    <string name="prefDlgResValidationFailedTxtNumeric">Nicht numerische Eingabe für Breite/Höhe</string>
+    <string name="prefDlgResValidationFailedTxtSmaller">"Die Auflösung darf nicht kleiner sein als "</string>
+    <string name="prefDlgResValidationFailedTxtSmallestWin81">"Verwenden Sie diese Auflösung nicht unter Windows 8.1 "</string>
+    <string name="prefDlgResValidationTxtChangesApplied">Änderungen übernommen</string>
+    <string name="pref_description_auto_connect">Stellen Sie bei der App-Start automatisch eine Verbindung zu einem Server her</string>
+    <string name="pref_description_auto_connect_ip">Geben Sie die IP-Adresse des Servers für die automatische Verbindung ein</string>
+    <string name="pref_description_autoreconnect">Client-Gerät verbindet sich bei Verbindungsverlust automatisch wieder</string>
+    <string name="pref_description_autorotation">Drehen Sie den Bildschirm des primären Computers durch Rotation des Clientgeräts</string>
+    <string name="pref_description_custom_res">Wird normalerweise für die Desktop-Duplizierung verwendet</string>
+    <string name="pref_description_discovery">Aktivieren/Deaktivieren der automatischen Erkennung von primären spacedesk-Maschinen</string>
+    <string name="pref_description_ktm_mouse">Senden Sie Touchscreen-Eingaben an den primären Computer (Server)</string>
+    <string name="pref_description_ktm_soft_keyboard">Senden der Software-Tastatureingabe an den Windows-Primär-PC (Server)</string>
+    <string name="pref_description_ktm_stylus">Stifteingabe an Windows-Primär-PC (Server) senden</string>
+    <string name="pref_description_native_res">Wird normalerweise für Desktop-Erweiterungen verwendet</string>
+    <string name="pref_enter_autoconnect_ip_message">Geben Sie Ihre IP-Adresse ein</string>
+    <string name="pref_header_compression">Qualität/Performance</string>
+    <string name="pref_header_connection">Verbindung</string>
+    <string name="pref_header_keyboard">Tastatur</string>
+    <string name="pref_header_pen">Stift</string>
+    <string name="pref_header_resolution">Auflösung</string>
+    <string name="pref_header_rotation">Rotation</string>
+    <string name="pref_header_touch">Touchscreen</string>
+    <string name="pref_image_quality">Bildqualität</string>
+    <string name="pref_resolution_list_btn_neg">ABBRECHEN</string>
+    <string name="pref_resolution_list_btn_pos">ANWENDEN</string>
+    <string name="pref_text_ktm_sonarpen">Konfigurieren Sie den SonarPen Stift</string>
+    <string name="pref_title_auto_connect">Automatische Verbindung</string>
+    <string name="pref_title_auto_connect_ip">Automatische Verbindung zur IP-Adresse</string>
+    <string name="pref_title_autoreconnect">Automatische Wiederverbindung</string>
+    <string name="pref_title_autorotation">Autorotation</string>
+    <string name="pref_title_bmp_conf">Farbtiefe der Ausgabe</string>
+    <string name="pref_title_color_depth">Codierung der Farbtiefe</string>
+    <string name="pref_title_custom_res">Verwenden Sie eine benutzerdefinierte Auflösung</string>
+    <string name="pref_title_custom_res_choose">Wählen Sie die benutzerdefinierte Auflösung</string>
+    <string name="pref_title_discovery">Automatische Server Suche</string>
+    <string name="pref_title_fps">Benutzerdefinierte FPS Rate</string>
+    <string name="pref_title_ktm_mouse">Aktivieren Sie die Touchscreen Steuerung</string>
+    <string name="pref_title_ktm_soft_keyboard">Aktivieren Sie die Software Tastatur Eingabe</string>
+    <string name="pref_title_ktm_sonarpen">SonarPen Stift</string>
+    <string name="pref_title_ktm_stylus">Aktivieren Sie die Stiftbildschirmsteuerung</string>
+    <string name="pref_title_native_res">Verwenden Sie die native Android-Geräteauflösung</string>
+    <string name="pref_title_touch_type">Touch Eingabetyp</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="sonarPenGrantPermissionNeeded">Sie können SonarPen nicht verwenden, ohne Berechtigungen zu erteilen</string>
+    <string name="sonarPenPrefCalibrate">SonarPen kalibrieren</string>
+    <string name="sonarPenPrefCancel">Abbrechen</string>
+    <string name="sonarPenPrefDisable">SonarPen deaktivieren</string>
+    <string name="sonarPenPrefEnable">SonarPen aktivieren</string>
+    <string name="sonarPenPrefMainText">"Die spacedesk-App unterstützt den SonarPen-Stift. Sehen Sie sich die folgenden Optionen an, um es zu aktivieren / deaktivieren, die SonarPen-Website zu besuchen oder den SonarPen zu kalibrieren. "</string>
+    <string name="sonarPenPrefMainTextStatusDisabled">SonarPen-Status - DEAKTIVIERT</string>
+    <string name="sonarPenPrefMainTextStatusEnabled">SonarPen-Status - AKTIVIERT</string>
+    <string name="sonarPenPrefMainTextStatusEnabledCalibrated">KALIBRIERT</string>
+    <string name="sonarPenPrefMainTextStatusEnabledNotCalibrated">NICHT KALIBRIERT</string>
+    <string name="sonarPenPrefPalmRejectionDisable">Handflächenabweisung deaktivieren</string>
+    <string name="sonarPenPrefPalmRejectionEnable">Handflächenabweisung aktivieren</string>
+    <string name="sonarPenPrefReCalibrate">SonarPen neu kalibrieren</string>
+    <string name="sonarPenPrefWebsite">SonarPen-Website</string>
+    <string name="sonarPenToastSonarPenDisabled">SonarPen deaktiviert</string>
+    <string name="sonarPenToastSonarPenEnabled">SonarPen aktiviert</string>
+    <string name="spResFirstElement">Auflösungen…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_input_devices">Eingabegeräte</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="toastInvalidIpText">"Ungültige IP - "</string>
+    <string name="toastSonarPenStatusConnected">SonarPen verbunden</string>
+    <string name="toastSonarPenStatusDisconnected">SonarPen getrennt</string>
+    <string name="toastSonarPenStatusNotConnected">SonarPen nicht verbunden</string>
+    <string name="toastTextDisplayDisconnected">Bildschirm getrennt</string>
+    <string name="toastTxtAutoConIpDisabled">Automatische Verbindung aufgrund leerer IP-Adresse für automatische Verbindung deaktiviert</string>
+    <string name="toastTxtAutoConIpNotSaved">Automatische Verbindungs-IP nicht gespeichert - Bitte versuchen Sie es erneut</string>
+    <string name="toastTxtAutoConIpSaved">Automatische Verbindungs-IP gespeichert</string>
+    <string name="toastTxtDisplayConnected">Bildschirm angeschlossen</string>
+    <string name="toastTxtInvalidIp">Ungültige IP</string>
+    <string name="toastTxtUnableToConnect">Verbindung konnte nicht hergestellt werden</string>
+    <string name="tvPrefResHint">Die mit (*) gekennzeichneten Einträge sind bevorzugte Auflösungen, die dem Seitenverhältnis Ihres Geräts entsprechen.</string>
+</resources>

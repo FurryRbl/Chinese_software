@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/pref_image_quality">
+        <SeekBarPreference
+            android:max="100"
+            android:key="@string/pref_key_compression_quality"
+            android:defaultValue="60" />
+    </PreferenceCategory>
+    <ListPreference
+        android:entries="@array/pref_color_depth_titles"
+        android:title="@string/pref_title_color_depth"
+        android:key="@string/pref_key_color_depth"
+        android:defaultValue="6"
+        android:positiveButtonText="@null"
+        android:negativeButtonText="@null"
+        android:entryValues="@array/pref_color_depth_values" />
+    <ListPreference
+        android:entries="@array/pref_fps_titles"
+        android:title="@string/pref_title_fps"
+        android:key="@string/pref_key_fps"
+        android:defaultValue="0"
+        android:positiveButtonText="@null"
+        android:negativeButtonText="@null"
+        android:entryValues="@array/pref_fps_values" />
+    <ListPreference
+        android:entries="@array/pref_bmp_conf_titles"
+        android:title="@string/pref_title_bmp_conf"
+        android:key="@string/pref_key_bmp_cnf"
+        android:defaultValue="0"
+        android:positiveButtonText="@null"
+        android:negativeButtonText="@null"
+        android:entryValues="@array/pref_bmp_conf_values" />
+</PreferenceScreen>

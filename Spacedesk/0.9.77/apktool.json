@@ -1,0 +1,32 @@
+{
+  "apkFileName": "spacedesk_0.9.77.apk",
+  "VersionInfo": {
+    "versionName": "0.9.77",
+    "versionCode": "87"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {
+    "org/bouncycastle/x509/CertPathReviewerMessages_de.properties": "8",
+    "org/bouncycastle/x509/CertPathReviewerMessages.properties": "8"
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "png"
+  ],
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-210923",
+  "sharedLibrary": false,
+  "sdkInfo": {
+    "minSdkVersion": "16",
+    "targetSdkVersion": "30"
+  }
+}
