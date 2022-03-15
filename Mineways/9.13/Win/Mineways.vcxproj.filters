@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="biomes.cpp" />
+    <ClCompile Include="blockInfo.cpp" />
+    <ClCompile Include="cache.cpp" />
+    <ClCompile Include="ColorSchemes.cpp" />
+    <ClCompile Include="ExportPrint.cpp" />
+    <ClCompile Include="Location.cpp" />
+    <ClCompile Include="lodepng.cpp" />
+    <ClCompile Include="Mineways.cpp" />
+    <ClCompile Include="MinewaysMap.cpp" />
+    <ClCompile Include="nbt.cpp" />
+    <ClCompile Include="ObjFileManip.cpp" />
+    <ClCompile Include="region.cpp" />
+    <ClCompile Include="rwpng.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="terrainExtData.cpp" />
+    <ClCompile Include="XZip.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="biomes.h" />
+    <ClInclude Include="blockInfo.h" />
+    <ClInclude Include="cache.h" />
+    <ClInclude Include="ColorSchemes.h" />
+    <ClInclude Include="ExportPrint.h" />
+    <ClInclude Include="Location.h" />
+    <ClInclude Include="lodepng.h" />
+    <ClInclude Include="mdlFiles.h" />
+    <ClInclude Include="Mineways.h" />
+    <ClInclude Include="MinewaysMap.h" />
+    <ClInclude Include="nbt.h" />
+    <ClInclude Include="ObjFileManip.h" />
+    <ClInclude Include="PublishSkfb.h" />
+    <ClInclude Include="region.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="rwpng.h" />
+    <ClInclude Include="SketchfabUploader.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="terrainExtData.h" />
+    <ClInclude Include="tiles.h" />
+    <ClInclude Include="vector.h" />
+    <ClInclude Include="XZip.h" />
+    <ClInclude Include="zconf.h" />
+    <ClInclude Include="zlib.h" />
+    <ClInclude Include="C:\Users\VupRb\Desktop\Mineways-9.13\Win\resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Mineways.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sketchfab_banner.bmp" />
+    <None Include="teapot.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\VupRb\Desktop\Mineways-9.13\Win\teapot.ico" />
+    <Image Include="C:\Users\VupRb\Desktop\Mineways-9.13\Win\sketchfab_banner.bmp" />
+  </ItemGroup>
+</Project>
